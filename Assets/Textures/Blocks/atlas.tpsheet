@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.7
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=atlas.png
+:size=16x32
+:pivotpoints=enabled
+:borders=disabled
+
+dirt.png;0;16;16;16; 0.5;0.5; 0;0;0;0
+grass.png;0;0;16;16; 0.5;0.5; 0;0;0;0
